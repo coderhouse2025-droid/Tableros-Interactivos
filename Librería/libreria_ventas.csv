@@ -1,0 +1,101 @@
+id_venta,fecha,id_producto,producto,categoria,cantidad,precio_unitario,total,metodo_pago,vendedor
+5062,2024-01-15,1017,El poder del ahora,Desarrollo Personal,2,14.5,29.0,Mercado Pago,Ana García
+5037,2024-01-17,1137,El amor en los tiempos del cólera,Literatura Latinoamericana,1,16.0,16.0,Efectivo,María Fernández
+5054,2024-01-17,1025,Conversación en la catedral,Literatura Latinoamericana,3,15.0,45.0,Transferencia,Sofía Martínez
+5089,2024-01-17,1032,Fundación,Ciencia Ficción,1,14.99,14.99,Efectivo,María Fernández
+5012,2024-01-18,1023,Ficciones,Cuentos,1,13.99,13.99,Mercado Pago,Carlos López
+5021,2024-01-18,1099,El viejo y el mar,Clásicos,1,11.0,11.0,Efectivo,Sofía Martínez
+5006,2024-01-20,1060,El poder de los hábitos,Desarrollo Personal,1,15.5,15.5,Transferencia,María Fernández
+5042,2024-01-20,1006,El principito,Infantil,1,9.99,9.99,Efectivo,Sofía Martínez
+5053,2024-01-20,1095,El guardián entre el centeno,Ficción,3,13.0,39.0,Transferencia,Sofía Martínez
+5061,2024-01-20,1019,La sombra del viento,Ficción,3,16.0,48.0,Tarjeta crédito,Carlos López
+5043,2024-01-21,1005,1984,Ficción,1,13.5,13.5,Efectivo,Ana García
+5099,2024-01-21,1123,Veinte poemas de amor,Poesía,3,11.0,33.0,Mercado Pago,Luis Rodríguez
+5038,2024-01-22,1015,El código Da Vinci,Thriller,1,15.0,15.0,Transferencia,Sofía Martínez
+5070,2024-01-22,1003,Hábitos atómicos,Desarrollo Personal,2,18.69,37.38,Tarjeta débito,Carlos López
+5010,2024-01-23,1020,El nombre del viento,Fantasía,2,18.0,36.0,Efectivo,María Fernández
+5079,2024-01-23,1038,Los juegos del hambre,Juvenil,3,13.5,40.5,Efectivo,Carlos López
+5045,2024-01-24,1040,Crepúsculo,Juvenil,3,14.0,42.0,Tarjeta crédito,Luis Rodríguez
+5081,2024-01-26,1054,Pensar rápido pensar despacio,Psicología,1,18.0,18.0,Tarjeta débito,María Fernández
+5003,2024-01-27,1037,El cuento de la criada,Ficción,3,15.99,47.97,Tarjeta crédito,Luis Rodríguez
+5083,2024-01-27,1048,Meditaciones,Filosofía,1,11.0,11.0,Tarjeta débito,Ana García
+5076,2024-01-30,1003,Hábitos atómicos,Desarrollo Personal,3,18.69,56.07,Mercado Pago,María Fernández
+5047,2024-02-02,1003,Hábitos atómicos,Desarrollo Personal,2,18.69,37.38,Efectivo,Sofía Martínez
+5011,2024-02-03,1019,La sombra del viento,Ficción,1,16.0,16.0,Tarjeta débito,Sofía Martínez
+5025,2024-02-03,1002,El alquimista,Literatura Latinoamericana,1,12.5,12.5,Tarjeta débito,Luis Rodríguez
+5074,2024-02-03,1046,Así habló Zaratustra,Filosofía,2,13.5,27.0,Efectivo,María Fernández
+5080,2024-02-03,1046,Así habló Zaratustra,Filosofía,3,13.5,40.5,Tarjeta débito,María Fernández
+5028,2024-02-04,1061,La magia del orden,Estilo de Vida,1,13.0,13.0,Transferencia,María Fernández
+5064,2024-02-04,1006,El principito,Infantil,2,9.99,19.98,Tarjeta débito,María Fernández
+5087,2024-02-04,1001,Cien años de soledad,Literatura Latinoamericana,2,15.99,31.98,Tarjeta crédito,Luis Rodríguez
+5051,2024-02-07,1063,Una breve historia del tiempo,Ciencia,3,15.99,47.97,Efectivo,María Fernández
+5088,2024-02-07,1009,Orgullo y prejuicio,Clásicos,2,12.0,24.0,Tarjeta crédito,Carlos López
+5049,2024-02-08,1092,El proceso,Clásicos,3,12.0,36.0,Mercado Pago,Carlos López
+5013,2024-02-10,1057,Inteligencia emocional,Psicología,3,15.0,45.0,Efectivo,Carlos López
+5057,2024-02-10,1099,El viejo y el mar,Clásicos,1,11.0,11.0,Mercado Pago,María Fernández
+5002,2024-02-11,1025,Conversación en la catedral,Literatura Latinoamericana,3,15.0,45.0,Mercado Pago,Carlos López
+5014,2024-02-12,1013,Dune,Ciencia Ficción,2,17.99,35.98,Mercado Pago,María Fernández
+5077,2024-02-12,1005,1984,Ficción,1,13.5,13.5,Efectivo,Ana García
+5008,2024-02-13,1009,Orgullo y prejuicio,Clásicos,3,12.0,36.0,Tarjeta crédito,Luis Rodríguez
+5022,2024-02-14,1170,Yo robot,Ciencia Ficción,1,13.0,13.0,Tarjeta crédito,María Fernández
+5066,2024-02-14,1018,Piense y hágase rico,Desarrollo Personal,3,12.99,38.97,Mercado Pago,María Fernández
+5094,2024-02-14,1037,El cuento de la criada,Ficción,1,15.99,15.99,Tarjeta crédito,Ana García
+5055,2024-02-16,1137,El amor en los tiempos del cólera,Literatura Latinoamericana,1,16.0,16.0,Transferencia,Sofía Martínez
+5084,2024-02-16,1095,El guardián entre el centeno,Ficción,2,13.0,26.0,Mercado Pago,Ana García
+5026,2024-02-17,1016,Sapiens,No Ficción,2,19.99,39.98,Transferencia,Sofía Martínez
+5035,2024-02-17,1051,El arte de la guerra,Estrategia,2,10.0,20.0,Tarjeta débito,Carlos López
+5005,2024-02-18,1032,Fundación,Ciencia Ficción,1,14.99,14.99,Transferencia,Luis Rodríguez
+5017,2024-02-18,1004,Don Quijote de la Mancha,Clásicos,2,22.0,44.0,Tarjeta crédito,Sofía Martínez
+5029,2024-02-18,1019,La sombra del viento,Ficción,3,16.0,48.0,Mercado Pago,María Fernández
+5052,2024-02-20,1012,Harry Potter y la piedra filosofal,Juvenil,1,14.99,14.99,Efectivo,Ana García
+5039,2024-02-21,1058,Los 7 hábitos de la gente altamente efectiva,Desarrollo Personal,1,17.0,17.0,Transferencia,María Fernández
+5090,2024-02-22,1134,El Aleph,Cuentos,3,13.5,40.5,Efectivo,Luis Rodríguez
+5050,2024-02-24,1014,Fahrenheit 451,Ciencia Ficción,1,13.0,13.0,Tarjeta débito,María Fernández
+5096,2024-02-24,1021,Crónica de una muerte anunciada,Literatura Latinoamericana,2,11.0,22.0,Tarjeta crédito,Luis Rodríguez
+5086,2024-02-25,1006,El principito,Infantil,3,9.99,29.97,Transferencia,Ana García
+5009,2024-02-26,1048,Meditaciones,Filosofía,1,11.0,11.0,Tarjeta crédito,Ana García
+5018,2024-02-26,1199,Nada,Ficción,2,13.0,26.0,Transferencia,Ana García
+5063,2024-02-26,1015,El código Da Vinci,Thriller,2,15.0,30.0,Efectivo,Carlos López
+5056,2024-02-27,1010,Crimen y castigo,Clásicos,2,16.5,33.0,Transferencia,Ana García
+5097,2024-02-27,1063,Una breve historia del tiempo,Ciencia,3,15.99,47.97,Mercado Pago,Carlos López
+5098,2024-02-27,1002,El alquimista,Literatura Latinoamericana,3,12.5,37.5,Efectivo,Ana García
+5019,2024-02-28,1057,Inteligencia emocional,Psicología,2,15.0,30.0,Transferencia,Carlos López
+5032,2024-02-28,1044,El mundo de Sofía,Filosofía,1,15.0,15.0,Efectivo,Carlos López
+5060,2024-02-28,1123,Veinte poemas de amor,Poesía,1,11.0,11.0,Tarjeta crédito,Sofía Martínez
+5078,2024-02-28,1123,Veinte poemas de amor,Poesía,1,11.0,11.0,Efectivo,Ana García
+5071,2024-02-29,1048,Meditaciones,Filosofía,1,11.0,11.0,Tarjeta crédito,Carlos López
+5085,2024-02-29,1170,Yo robot,Ciencia Ficción,1,13.0,13.0,Tarjeta crédito,Carlos López
+5093,2024-02-29,1099,El viejo y el mar,Clásicos,3,11.0,33.0,Tarjeta débito,María Fernández
+5007,2024-03-03,1051,El arte de la guerra,Estrategia,3,10.0,30.0,Tarjeta crédito,María Fernández
+5016,2024-03-03,1004,Don Quijote de la Mancha,Clásicos,3,22.0,66.0,Transferencia,María Fernández
+5068,2024-03-03,1009,Orgullo y prejuicio,Clásicos,1,12.0,12.0,Transferencia,María Fernández
+5059,2024-03-04,1058,Los 7 hábitos de la gente altamente efectiva,Desarrollo Personal,3,17.0,51.0,Transferencia,María Fernández
+5095,2024-03-04,1022,Rayuela,Literatura Latinoamericana,2,17.5,35.0,Efectivo,Luis Rodríguez
+5040,2024-03-05,1002,El alquimista,Literatura Latinoamericana,3,12.5,37.5,Transferencia,María Fernández
+5065,2024-03-05,1046,Así habló Zaratustra,Filosofía,3,13.5,40.5,Mercado Pago,Luis Rodríguez
+5075,2024-03-05,1137,El amor en los tiempos del cólera,Literatura Latinoamericana,2,16.0,32.0,Tarjeta crédito,Ana García
+5091,2024-03-05,1170,Yo robot,Ciencia Ficción,3,13.0,39.0,Efectivo,Sofía Martínez
+5004,2024-03-06,1037,El cuento de la criada,Ficción,2,15.99,31.98,Tarjeta crédito,Ana García
+5036,2024-03-06,1200,Los girasoles ciegos,Ficción,1,12.0,12.0,Tarjeta crédito,Carlos López
+5023,2024-03-07,1002,El alquimista,Literatura Latinoamericana,1,12.5,12.5,Tarjeta crédito,Luis Rodríguez
+5024,2024-03-07,1006,El principito,Infantil,1,9.99,9.99,Mercado Pago,Luis Rodríguez
+5100,2024-03-08,1016,Sapiens,No Ficción,3,19.99,59.97,Tarjeta crédito,Luis Rodríguez
+5033,2024-03-09,1011,El señor de los anillos,Fantasía,3,29.99,89.97,Efectivo,Luis Rodríguez
+5073,2024-03-09,1014,Fahrenheit 451,Ciencia Ficción,3,13.0,39.0,Mercado Pago,María Fernández
+5034,2024-03-10,1165,Martín Fierro,Poesía,3,11.0,33.0,Transferencia,Ana García
+5030,2024-03-11,1099,El viejo y el mar,Clásicos,2,11.0,22.0,Tarjeta débito,Luis Rodríguez
+5082,2024-03-11,1036,Brave New World,Clásicos,3,13.0,39.0,Tarjeta crédito,Carlos López
+5020,2024-03-12,1010,Crimen y castigo,Clásicos,2,16.5,33.0,Tarjeta débito,María Fernández
+5058,2024-03-12,1038,Los juegos del hambre,Juvenil,1,13.5,13.5,Tarjeta débito,María Fernández
+5072,2024-03-12,1051,El arte de la guerra,Estrategia,1,10.0,10.0,Tarjeta crédito,Ana García
+5031,2024-03-13,1076,El conde de Montecristo,Clásicos,2,20.0,40.0,Tarjeta crédito,Luis Rodríguez
+5041,2024-03-13,1008,El gran Gatsby,Clásicos,3,11.99,35.97,Mercado Pago,Ana García
+5069,2024-03-13,1019,La sombra del viento,Ficción,2,16.0,32.0,Tarjeta crédito,María Fernández
+5001,2024-03-14,1006,El principito,Infantil,3,9.99,29.97,Tarjeta crédito,Sofía Martínez
+5027,2024-03-15,1005,1984,Ficción,1,13.5,13.5,Mercado Pago,Carlos López
+5044,2024-03-16,1044,El mundo de Sofía,Filosofía,2,15.0,30.0,Transferencia,Sofía Martínez
+5067,2024-03-16,1070,Armas gérmenes y acero,Historia,1,18.0,18.0,Efectivo,Luis Rodríguez
+5092,2024-03-16,1007,Matar a un ruiseñor,Ficción,3,14.99,44.97,Tarjeta crédito,Ana García
+5015,2024-03-19,1137,El amor en los tiempos del cólera,Literatura Latinoamericana,1,16.0,16.0,Efectivo,Luis Rodríguez
+5046,2024-03-21,1021,Crónica de una muerte anunciada,Literatura Latinoamericana,1,11.0,11.0,Efectivo,Ana García
+5048,2024-03-21,1084,El retrato de Dorian Gray,Clásicos,1,12.0,12.0,Transferencia,Carlos López

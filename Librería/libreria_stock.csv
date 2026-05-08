@@ -1,0 +1,201 @@
+id,name,brand,code,price,stock,category,location,dateAdded
+1001,Cien años de soledad,Gabriel García Márquez,9788437604947,15.99,5,Libros,Estante A2,2024-01-15
+1002,El alquimista,Paulo Coelho,9788408045391,12.50,3,Libros,Estante A1,2024-01-15
+1003,Hábitos atómicos,James Clear,9789878220062,18.69,1,Desarrollo Personal,Estante B3,2024-01-15
+1004,Don Quijote de la Mancha,Miguel de Cervantes,9788467033229,22.00,4,Clásicos,Estante C1,2024-01-16
+1005,1984,George Orwell,9780451524935,13.50,7,Ficción,Estante A3,2024-01-16
+1006,El principito,Antoine de Saint-Exupéry,9788498381498,9.99,12,Infantil,Estante D1,2024-01-16
+1007,Matar a un ruiseñor,Harper Lee,9780061935466,14.99,6,Ficción,Estante A4,2024-01-17
+1008,El gran Gatsby,F. Scott Fitzgerald,9780743273565,11.99,8,Clásicos,Estante C2,2024-01-17
+1009,Orgullo y prejuicio,Jane Austen,9780141439518,12.00,5,Clásicos,Estante C3,2024-01-17
+1010,Crimen y castigo,Fiódor Dostoievski,9788420674209,16.50,3,Clásicos,Estante C4,2024-01-18
+1011,El señor de los anillos,J.R.R. Tolkien,9780618640157,29.99,4,Fantasía,Estante E1,2024-01-18
+1012,Harry Potter y la piedra filosofal,J.K. Rowling,9788478884452,14.99,10,Juvenil,Estante D2,2024-01-18
+1013,Dune,Frank Herbert,9780441013593,17.99,5,Ciencia Ficción,Estante F1,2024-01-19
+1014,Fahrenheit 451,Ray Bradbury,9781451673319,13.00,6,Ciencia Ficción,Estante F2,2024-01-19
+1015,El código Da Vinci,Dan Brown,9780307474278,15.00,8,Thriller,Estante G1,2024-01-19
+1016,Sapiens,Yuval Noah Harari,9788499926223,19.99,9,No Ficción,Estante H1,2024-01-20
+1017,El poder del ahora,Eckhart Tolle,9788484450498,14.50,4,Desarrollo Personal,Estante B1,2024-01-20
+1018,Piense y hágase rico,Napoleon Hill,9781585424337,12.99,6,Desarrollo Personal,Estante B2,2024-01-20
+1019,La sombra del viento,Carlos Ruiz Zafón,9788408163435,16.00,7,Ficción,Estante A5,2024-01-21
+1020,El nombre del viento,Patrick Rothfuss,9788401352836,18.00,3,Fantasía,Estante E2,2024-01-21
+1021,Crónica de una muerte anunciada,Gabriel García Márquez,9780307387738,11.00,5,Literatura Latinoamericana,Estante A6,2024-01-21
+1022,Rayuela,Julio Cortázar,9788437605043,17.50,2,Literatura Latinoamericana,Estante A7,2024-01-22
+1023,Ficciones,Jorge Luis Borges,9780802130303,13.99,4,Cuentos,Estante I1,2024-01-22
+1024,Pedro Páramo,Juan Rulfo,9786071666376,10.50,6,Literatura Latinoamericana,Estante A8,2024-01-22
+1025,Conversación en la catedral,Mario Vargas Llosa,9788437601649,15.00,3,Literatura Latinoamericana,Estante A9,2024-01-23
+1026,La ciudad y los perros,Mario Vargas Llosa,9788437603278,14.00,5,Literatura Latinoamericana,Estante A10,2024-01-23
+1027,Casa de muñecas,Henrik Ibsen,9788420638140,10.00,4,Teatro,Estante J1,2024-01-23
+1028,Hamlet,William Shakespeare,9780743477123,11.50,7,Clásicos,Estante C5,2024-01-24
+1029,Romeo y Julieta,William Shakespeare,9780743477115,10.00,8,Clásicos,Estante C6,2024-01-24
+1030,La Ilíada,Homero,9788424920012,14.00,3,Clásicos,Estante C7,2024-01-24
+1031,La Odisea,Homero,9788424920463,14.00,4,Clásicos,Estante C8,2024-01-25
+1032,Fundación,Isaac Asimov,9780553293357,14.99,5,Ciencia Ficción,Estante F3,2024-01-25
+1033,El marciano,Andy Weir,9780553418026,15.50,6,Ciencia Ficción,Estante F4,2024-01-25
+1034,Ender's Game,Orson Scott Card,9780812550702,13.99,4,Ciencia Ficción,Estante F5,2024-01-26
+1035,Neuromante,William Gibson,9780441569595,14.50,3,Ciencia Ficción,Estante F6,2024-01-26
+1036,Brave New World,Aldous Huxley,9780062696120,13.00,5,Clásicos,Estante C9,2024-01-26
+1037,El cuento de la criada,Margaret Atwood,9781101900185,15.99,7,Ficción,Estante A11,2024-01-27
+1038,Los juegos del hambre,Suzanne Collins,9780439023481,13.50,9,Juvenil,Estante D3,2024-01-27
+1039,Divergente,Veronica Roth,9780062024039,12.99,8,Juvenil,Estante D4,2024-01-27
+1040,Crepúsculo,Stephenie Meyer,9780316160179,14.00,10,Juvenil,Estante D5,2024-01-28
+1041,El hobbit,J.R.R. Tolkien,9780547928227,14.99,11,Fantasía,Estante E3,2024-01-28
+1042,Las crónicas de Narnia,C.S. Lewis,9780066238500,22.00,5,Fantasía,Estante E4,2024-01-28
+1043,El juego de Ender,Orson Scott Card,9780812550702,13.99,3,Ciencia Ficción,Estante F7,2024-01-29
+1044,El mundo de Sofía,Jostein Gaarder,9780374527471,15.00,6,Filosofía,Estante K1,2024-01-29
+1045,Sophie's World,Jostein Gaarder,9780374527471,15.00,4,Filosofía,Estante K2,2024-01-29
+1046,Así habló Zaratustra,Friedrich Nietzsche,9788420674155,13.50,5,Filosofía,Estante K3,2024-01-30
+1047,El ser y la nada,Jean-Paul Sartre,9788420636429,18.00,2,Filosofía,Estante K4,2024-01-30
+1048,Meditaciones,Marco Aurelio,9781585102464,11.00,7,Filosofía,Estante K5,2024-01-30
+1049,La república,Platón,9788420624518,14.00,4,Filosofía,Estante K6,2024-01-31
+1050,Ética a Nicómaco,Aristóteles,9788420624525,14.50,3,Filosofía,Estante K7,2024-01-31
+1051,El arte de la guerra,Sun Tzu,9780981162614,10.00,8,Estrategia,Estante L1,2024-01-31
+1052,Padre rico padre pobre,Robert Kiyosaki,9781612680194,14.99,9,Finanzas,Estante M1,2024-02-01
+1053,El inversor inteligente,Benjamin Graham,9780060555665,22.00,4,Finanzas,Estante M2,2024-02-01
+1054,Pensar rápido pensar despacio,Daniel Kahneman,9780374533557,18.00,5,Psicología,Estante N1,2024-02-01
+1055,Fluir,Mihaly Csikszentmihalyi,9780061339202,15.00,4,Psicología,Estante N2,2024-02-02
+1056,El hombre en busca de sentido,Viktor Frankl,9780807014295,12.50,11,Psicología,Estante N3,2024-02-02
+1057,Inteligencia emocional,Daniel Goleman,9780553383713,15.00,7,Psicología,Estante N4,2024-02-02
+1058,Los 7 hábitos de la gente altamente efectiva,Stephen Covey,9781451639612,17.00,6,Desarrollo Personal,Estante B4,2024-02-03
+1059,La semana laboral de 4 horas,Timothy Ferriss,9780307465351,16.00,5,Desarrollo Personal,Estante B5,2024-02-03
+1060,El poder de los hábitos,Charles Duhigg,9781400069286,15.50,8,Desarrollo Personal,Estante B6,2024-02-03
+1061,La magia del orden,Marie Kondo,9788401015922,13.00,10,Estilo de Vida,Estante O1,2024-02-04
+1062,El minimalista,Joshua Becker,9780735290945,12.00,4,Estilo de Vida,Estante O2,2024-02-04
+1063,Una breve historia del tiempo,Stephen Hawking,9780553380163,15.99,6,Ciencia,Estante P1,2024-02-04
+1064,El origen de las especies,Charles Darwin,9780140432053,14.00,3,Ciencia,Estante P2,2024-02-05
+1065,El gen egoísta,Richard Dawkins,9780198788607,16.00,4,Ciencia,Estante P3,2024-02-05
+1066,Cosmos,Carl Sagan,9780345539434,18.00,5,Ciencia,Estante P4,2024-02-05
+1067,El universo en una cáscara de nuez,Stephen Hawking,9780553802023,17.50,4,Ciencia,Estante P5,2024-02-06
+1068,El gran diseño,Stephen Hawking,9780553840933,16.00,3,Ciencia,Estante P6,2024-02-06
+1069,La física de lo imposible,Michio Kaku,9780307278821,16.50,5,Ciencia,Estante P7,2024-02-06
+1070,Armas gérmenes y acero,Jared Diamond,9780393354324,18.00,4,Historia,Estante Q1,2024-02-07
+1071,El colapso,Jared Diamond,9780143036555,17.00,3,Historia,Estante Q2,2024-02-07
+1072,Brevísima historia del tiempo,Stephen Hawking,9780553385465,14.00,5,Ciencia,Estante P8,2024-02-07
+1073,La guerra y la paz,León Tolstói,9780198800545,24.00,2,Clásicos,Estante C10,2024-02-08
+1074,Ana Karenina,León Tolstói,9780143035008,19.00,3,Clásicos,Estante C11,2024-02-08
+1075,Los miserables,Víctor Hugo,9780451419439,21.00,4,Clásicos,Estante C12,2024-02-08
+1076,El conde de Montecristo,Alexandre Dumas,9780140449266,20.00,3,Clásicos,Estante C13,2024-02-09
+1077,Los tres mosqueteros,Alexandre Dumas,9780140440072,16.00,5,Clásicos,Estante C14,2024-02-09
+1078,Moby Dick,Herman Melville,9780142437247,16.50,4,Clásicos,Estante C15,2024-02-09
+1079,Las aventuras de Tom Sawyer,Mark Twain,9780486400778,10.00,6,Infantil,Estante D6,2024-02-10
+1080,Las aventuras de Huckleberry Finn,Mark Twain,9780142437179,11.00,5,Clásicos,Estante C16,2024-02-10
+1081,Drácula,Bram Stoker,9780141439846,13.00,7,Terror,Estante R1,2024-02-10
+1082,Frankenstein,Mary Shelley,9780141439471,12.00,6,Terror,Estante R2,2024-02-11
+1083,El fantasma de la ópera,Gaston Leroux,9780143039020,12.50,4,Terror,Estante R3,2024-02-11
+1084,El retrato de Dorian Gray,Oscar Wilde,9780141439570,12.00,5,Clásicos,Estante C17,2024-02-11
+1085,La importancia de llamarse Ernesto,Oscar Wilde,9780486264875,9.00,6,Teatro,Estante J2,2024-02-12
+1086,El extranjero,Albert Camus,9780679720201,11.00,8,Clásicos,Estante C18,2024-02-12
+1087,La náusea,Jean-Paul Sartre,9780811201032,13.00,5,Clásicos,Estante C19,2024-02-12
+1088,El lobo estepario,Hermann Hesse,9780312278670,13.50,4,Ficción,Estante A12,2024-02-13
+1089,Siddhartha,Hermann Hesse,9780553208849,11.00,9,Espiritualidad,Estante S1,2024-02-13
+1090,El juego de los abalorios,Hermann Hesse,9780312278656,16.00,3,Ficción,Estante A13,2024-02-13
+1091,La montaña mágica,Thomas Mann,9780679772873,22.00,2,Clásicos,Estante C20,2024-02-14
+1092,El proceso,Franz Kafka,9780805209990,12.00,5,Clásicos,Estante C21,2024-02-14
+1093,La metamorfosis,Franz Kafka,9781557427663,9.50,8,Cuentos,Estante I2,2024-02-14
+1094,En el camino,Jack Kerouac,9780140283297,14.00,6,Ficción,Estante A14,2024-02-15
+1095,El guardián entre el centeno,J.D. Salinger,9780316769174,13.00,7,Ficción,Estante A15,2024-02-15
+1096,A sangre fría,Truman Capote,9780679745587,15.00,5,No Ficción,Estante H2,2024-02-15
+1097,Desayuno en Tiffany's,Truman Capote,9780679745655,11.00,6,Ficción,Estante A16,2024-02-16
+1098,Por quién doblan las campanas,Ernest Hemingway,9780684803357,16.00,4,Clásicos,Estante C22,2024-02-16
+1099,El viejo y el mar,Ernest Hemingway,9780684830490,11.00,9,Clásicos,Estante C23,2024-02-16
+1100,El sol también sale,Ernest Hemingway,9780743297332,14.00,5,Clásicos,Estante C24,2024-02-17
+1101,Adiós a las armas,Ernest Hemingway,9780684801469,13.00,4,Clásicos,Estante C25,2024-02-17
+1102,El sonido y la furia,William Faulkner,9780679732242,16.00,3,Clásicos,Estante C26,2024-02-17
+1103,Mientras agonizo,William Faulkner,9780679748625,14.00,4,Clásicos,Estante C27,2024-02-18
+1104,Las uvas de la ira,John Steinbeck,9780143039433,17.00,5,Clásicos,Estante C28,2024-02-18
+1105,De ratones y hombres,John Steinbeck,9780140177398,11.00,7,Clásicos,Estante C29,2024-02-18
+1106,Al este del Edén,John Steinbeck,9780142004234,18.00,4,Clásicos,Estante C30,2024-02-19
+1107,La cabaña del tío Tom,Harriet Beecher Stowe,9780486440286,13.00,4,Clásicos,Estante C31,2024-02-19
+1108,Cumbres borrascosas,Emily Brontë,9780141439556,13.00,5,Clásicos,Estante C32,2024-02-19
+1109,Jane Eyre,Charlotte Brontë,9780141441146,14.00,6,Clásicos,Estante C33,2024-02-20
+1110,Sentido y sensibilidad,Jane Austen,9780141439662,12.00,5,Clásicos,Estante C34,2024-02-20
+1111,Emma,Jane Austen,9780141439587,13.00,4,Clásicos,Estante C35,2024-02-20
+1112,Persuasión,Jane Austen,9780141439686,12.00,5,Clásicos,Estante C36,2024-02-21
+1113,Grandes esperanzas,Charles Dickens,9780141439563,16.00,6,Clásicos,Estante C37,2024-02-21
+1114,Oliver Twist,Charles Dickens,9780141439747,13.00,5,Clásicos,Estante C38,2024-02-21
+1115,Historia de dos ciudades,Charles Dickens,9780141439600,14.00,4,Clásicos,Estante C39,2024-02-22
+1116,David Copperfield,Charles Dickens,9780141439648,18.00,3,Clásicos,Estante C40,2024-02-22
+1117,El médico de su honra,Pedro Calderón de la Barca,9788467030839,10.00,3,Teatro,Estante J3,2024-02-22
+1118,Fuenteovejuna,Lope de Vega,9788467031225,10.00,4,Teatro,Estante J4,2024-02-23
+1119,La celestina,Fernando de Rojas,9788467033014,11.00,3,Clásicos,Estante C41,2024-02-23
+1120,El lazarillo de Tormes,Anónimo,9788467032208,10.00,5,Clásicos,Estante C42,2024-02-23
+1121,Poema de Mio Cid,Anónimo,9788467031850,11.00,4,Clásicos,Estante C43,2024-02-24
+1122,Rimas y leyendas,Gustavo Adolfo Bécquer,9788467031751,12.00,6,Poesía,Estante T1,2024-02-24
+1123,Veinte poemas de amor,Pablo Neruda,9788437604954,11.00,10,Poesía,Estante T2,2024-02-24
+1124,Residencia en la tierra,Pablo Neruda,9788437604961,13.00,5,Poesía,Estante T3,2024-02-25
+1125,Canto general,Pablo Neruda,9788437604978,14.00,4,Poesía,Estante T4,2024-02-25
+1126,Poeta en Nueva York,Federico García Lorca,9788437605951,12.00,5,Poesía,Estante T5,2024-02-25
+1127,La casa de Bernarda Alba,Federico García Lorca,9788467030686,10.00,7,Teatro,Estante J5,2024-02-26
+1128,Bodas de sangre,Federico García Lorca,9788467030693,10.00,5,Teatro,Estante J6,2024-02-26
+1129,Romancero gitano,Federico García Lorca,9788437605944,11.00,6,Poesía,Estante T6,2024-02-26
+1130,El llano en llamas,Juan Rulfo,9786071666383,10.00,7,Cuentos,Estante I3,2024-02-27
+1131,El túnel,Ernesto Sabato,9788432217869,13.00,5,Ficción,Estante A17,2024-02-27
+1132,Sobre héroes y tumbas,Ernesto Sabato,9788432217876,15.00,3,Ficción,Estante A18,2024-02-27
+1133,Ficciones,Jorge Luis Borges,9780802130303,13.99,4,Cuentos,Estante I4,2024-02-28
+1134,El Aleph,Jorge Luis Borges,9780140280524,13.50,6,Cuentos,Estante I5,2024-02-28
+1135,Historias de cronopios y famas,Julio Cortázar,9788437605050,12.00,5,Cuentos,Estante I6,2024-02-28
+1136,Casa tomada y otros cuentos,Julio Cortázar,9788437619742,11.00,6,Cuentos,Estante I7,2024-02-29
+1137,El amor en los tiempos del cólera,Gabriel García Márquez,9788437604985,16.00,7,Literatura Latinoamericana,Estante A19,2024-02-29
+1138,El otoño del patriarca,Gabriel García Márquez,9788437604992,15.00,4,Literatura Latinoamericana,Estante A20,2024-02-29
+1139,La hojarasca,Gabriel García Márquez,9788437605005,13.00,5,Literatura Latinoamericana,Estante A21,2024-03-01
+1140,La increíble y triste historia de la cándida Eréndira,Gabriel García Márquez,9788437605012,12.00,6,Cuentos,Estante I8,2024-03-01
+1141,Primero sueño,Sor Juana Inés de la Cruz,9786071666390,11.00,4,Poesía,Estante T7,2024-03-01
+1142,La vorágine,José Eustasio Rivera,9786071666406,13.00,3,Literatura Latinoamericana,Estante A22,2024-03-02
+1143,Doña Bárbara,Rómulo Gallegos,9786071666413,14.00,4,Literatura Latinoamericana,Estante A23,2024-03-02
+1144,Los de abajo,Mariano Azuela,9786071666420,11.00,5,Literatura Latinoamericana,Estante A24,2024-03-02
+1145,La región más transparente,Carlos Fuentes,9786071666437,15.00,3,Literatura Latinoamericana,Estante A25,2024-03-03
+1146,Terra nostra,Carlos Fuentes,9786071666444,18.00,2,Literatura Latinoamericana,Estante A26,2024-03-03
+1147,El obsceno pájaro de la noche,José Donoso,9789562397001,16.00,3,Literatura Latinoamericana,Estante A27,2024-03-03
+1148,Paradiso,José Lezama Lima,9786071666451,17.00,2,Literatura Latinoamericana,Estante A28,2024-03-04
+1149,El astillero,Juan Carlos Onetti,9788437605067,14.00,4,Literatura Latinoamericana,Estante A29,2024-03-04
+1150,La vida breve,Juan Carlos Onetti,9788437605074,13.00,3,Literatura Latinoamericana,Estante A30,2024-03-04
+1151,Boquitas pintadas,Manuel Puig,9789875663527,14.00,5,Literatura Latinoamericana,Estante A31,2024-03-05
+1152,El beso de la mujer araña,Manuel Puig,9789875663534,14.00,4,Literatura Latinoamericana,Estante A32,2024-03-05
+1153,Respiración artificial,Ricardo Piglia,9789875663541,15.00,3,Literatura Latinoamericana,Estante A33,2024-03-05
+1154,La ciudad ausente,Ricardo Piglia,9789875663558,14.00,4,Literatura Latinoamericana,Estante A34,2024-03-06
+1155,Santa Evita,Tomás Eloy Martínez,9789875663565,15.00,5,Literatura Latinoamericana,Estante A35,2024-03-06
+1156,La novela de Perón,Tomás Eloy Martínez,9789875663572,14.00,3,Literatura Latinoamericana,Estante A36,2024-03-06
+1157,El entenado,Juan José Saer,9789875663589,13.00,4,Literatura Latinoamericana,Estante A37,2024-03-07
+1158,Nadie nada nunca,Juan José Saer,9789875663596,12.00,3,Literatura Latinoamericana,Estante A38,2024-03-07
+1159,Zama,Antonio Di Benedetto,9789875663602,14.00,4,Literatura Latinoamericana,Estante A39,2024-03-07
+1160,El juguete rabioso,Roberto Arlt,9789875663619,12.00,5,Literatura Latinoamericana,Estante A40,2024-03-08
+1161,Los siete locos,Roberto Arlt,9789875663626,13.00,4,Literatura Latinoamericana,Estante A41,2024-03-08
+1162,Adán Buenosayres,Leopoldo Marechal,9789875663633,16.00,2,Literatura Latinoamericana,Estante A42,2024-03-08
+1163,El matadero,Esteban Echeverría,9789875663640,9.00,6,Literatura Latinoamericana,Estante A43,2024-03-09
+1164,Facundo,Domingo Faustino Sarmiento,9789875663657,12.00,4,Historia,Estante Q3,2024-03-09
+1165,Martín Fierro,José Hernández,9789875663664,11.00,7,Poesía,Estante T8,2024-03-09
+1166,El gaucho Martín Fierro,José Hernández,9789875663671,11.00,5,Poesía,Estante T9,2024-03-10
+1167,El fin de la eternidad,Isaac Asimov,9780765319197,14.00,4,Ciencia Ficción,Estante F8,2024-03-10
+1168,Los robots del amanecer,Isaac Asimov,9780553299496,14.50,3,Ciencia Ficción,Estante F9,2024-03-10
+1169,El hombre bicentenario,Isaac Asimov,9780553299502,13.50,5,Cuentos,Estante I9,2024-03-11
+1170,Yo robot,Isaac Asimov,9780553382563,13.00,6,Ciencia Ficción,Estante F10,2024-03-11
+1171,2001 Odisea del espacio,Arthur C. Clarke,9780451457998,14.00,5,Ciencia Ficción,Estante F11,2024-03-11
+1172,El fin de la infancia,Arthur C. Clarke,9780345347954,13.50,4,Ciencia Ficción,Estante F12,2024-03-12
+1173,Rendez-vous with Rama,Arthur C. Clarke,9780553287899,14.00,3,Ciencia Ficción,Estante F13,2024-03-12
+1174,El cuento de los cuentos,Giambattista Basile,9788467033236,15.00,3,Cuentos,Estante I10,2024-03-12
+1175,La divina comedia,Dante Alighieri,9780142437223,18.00,4,Clásicos,Estante C44,2024-03-13
+1176,Orlando furioso,Ludovico Ariosto,9780199535743,20.00,2,Clásicos,Estante C45,2024-03-13
+1177,El decamerón,Giovanni Boccaccio,9780140449303,17.00,3,Clásicos,Estante C46,2024-03-13
+1178,Los cuentos de Canterbury,Geoffrey Chaucer,9780140422344,16.00,3,Clásicos,Estante C47,2024-03-14
+1179,Beowulf,Anónimo,9780393320978,13.00,4,Clásicos,Estante C48,2024-03-14
+1180,Las mil y una noches,Anónimo,9780140441062,19.00,5,Clásicos,Estante C49,2024-03-14
+1181,El Quijote de la Mancha (Vol. 1),Miguel de Cervantes,9788467033236,13.00,5,Clásicos,Estante C50,2024-03-15
+1182,Novelas ejemplares,Miguel de Cervantes,9788467033243,14.00,4,Clásicos,Estante C51,2024-03-15
+1183,El lazarillo de Tormes,Anónimo,9788467032208,10.00,6,Clásicos,Estante C52,2024-03-15
+1184,El Buscón,Francisco de Quevedo,9788467033250,11.00,5,Clásicos,Estante C53,2024-03-16
+1185,El criticón,Baltasar Gracián,9788437601120,14.00,3,Clásicos,Estante C54,2024-03-16
+1186,La Celestina (nueva edición),Fernando de Rojas,9788467033267,12.00,4,Clásicos,Estante C55,2024-03-16
+1187,Tirant lo Blanch,Joanot Martorell,9788437606248,20.00,2,Clásicos,Estante C56,2024-03-17
+1188,La verdad sospechosa,Juan Ruiz de Alarcón,9788467033274,9.00,4,Teatro,Estante J7,2024-03-17
+1189,El sí de las niñas,Leandro Fernández de Moratín,9788467033281,9.00,5,Teatro,Estante J8,2024-03-17
+1190,Pepita Jiménez,Juan Valera,9788467033298,12.00,4,Clásicos,Estante C57,2024-03-18
+1191,Misericordia,Benito Pérez Galdós,9788467033304,13.00,3,Clásicos,Estante C58,2024-03-18
+1192,La regenta,Leopoldo Alas Clarín,9788437601137,16.00,4,Clásicos,Estante C59,2024-03-18
+1193,Fortunata y Jacinta,Benito Pérez Galdós,9788467033311,20.00,2,Clásicos,Estante C60,2024-03-19
+1194,El árbol de la ciencia,Pío Baroja,9788437601144,13.00,5,Clásicos,Estante C61,2024-03-19
+1195,Niebla,Miguel de Unamuno,9788437601151,12.00,5,Clásicos,Estante C62,2024-03-19
+1196,Luces de bohemia,Ramón del Valle-Inclán,9788437601168,11.00,4,Teatro,Estante J9,2024-03-20
+1197,Campos de Castilla,Antonio Machado,9788437601175,11.00,6,Poesía,Estante T10,2024-03-20
+1198,Platero y yo,Juan Ramón Jiménez,9788437601182,10.00,7,Clásicos,Estante C63,2024-03-20
+1199,Nada,Carmen Laforet,9788423340453,13.00,5,Ficción,Estante A44,2024-03-21
+1200,Los girasoles ciegos,Alberto Méndez,9788433973580,12.00,4,Ficción,Estante A45,2024-03-21
