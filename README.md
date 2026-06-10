@@ -1,3 +1,5 @@
+<img width="1536" height="2752" alt="Portafolio_de_tableros_de_datos" src="https://github.com/user-attachments/assets/6ed054da-c87a-44b0-a00a-2b35698b2a7e" />
+
 # 📊 Tableros Interactivos
 
 Colección de cinco proyectos web independientes desarrollados con fines educativos y demostrativos, cada uno orientado a un caso de negocio específico. Este repositorio muestra capacidades en visualización de datos, diseño de interfaces interactivas y toma de decisiones tecnológicas fundamentadas.
